@@ -1,2 +1,4 @@
 com\anish\core\HelloWorldTest.class
+com\anish\dp\FactoryPatternTest.class
+com\anish\dp\EarthTest.class
 com\anish\util\CalculatorTest.class
