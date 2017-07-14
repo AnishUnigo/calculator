@@ -16,13 +16,14 @@ public class CalculatorTest extends TestCase{
 	@Test
 	public void testsubstract(int x, int y){
 		
-		assertEquals(cc.multiply(5, 4),9);
+		assertEquals(cc.substract(5, 4),1);
+		
 	}
 	
 	@Test
 	public void testmultiply(int x, int y){
 		
-		assertEquals(cc.substract(5, 4),1);
+		assertEquals(cc.multiply(5, 4),45);
 
 	}
 	
