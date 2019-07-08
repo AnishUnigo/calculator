@@ -7,7 +7,7 @@ public class HelloWorld {
 	
 	public String getMessage(String str){
 		
-		return str;
+		return str; // return string
 	}
 }
 	
